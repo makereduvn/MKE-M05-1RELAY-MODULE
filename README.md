@@ -103,7 +103,3 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M05 Relay](/extras/MKE-M05_2.png)
 ![MKE-M05 Relay](/extras/MKE-M05_3.png)
-
-
-
-
