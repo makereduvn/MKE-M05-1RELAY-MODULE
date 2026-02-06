@@ -71,11 +71,11 @@ Mạch đóng ngắt tải MKE-M05 1-Relay Module hỗ trợ điện áp điều
   </tr></thead>
 <tbody>
   <tr>
-    <td>TTL HIGH</td>
+    <td>TTL HIGH (3.3/5VDC)</td>
     <td>Không hoạt động (Off)</td>
   </tr>
   <tr>
-    <td>TTL LOW</td>
+    <td>TTL LOW (0VDC)</td>
     <td>Hoạt động (On)</td>
   </tr>
 </tbody>
@@ -103,5 +103,6 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M05 Relay](/extras/MKE-M05_2.png)
 ![MKE-M05 Relay](/extras/MKE-M05_3.png)
+
 
 
