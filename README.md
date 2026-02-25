@@ -5,7 +5,7 @@ MKE-M05 1-Relay Module là mạch đóng ngắt tải bằng relay hoạt độn
 
 Mạch đóng ngắt tải MKE-M05 1-Relay Module được ứng dụng rộng rãi trong nhiều tình huống thực tế như: điều khiển đèn chiếu sáng, quạt điện, máy bơm mini, chuông báo, khóa điện, các thiết bị gia dụng đơn giản, hệ thống nhà thông minh (Smart Home), cũng như các mạch tự động hóa cơ bản. Ngoài ra, mạch còn rất phù hợp cho các mô hình robot, dự án STEM, đồ án học tập và thực hành điện – điện tử, giúp người học dễ dàng tiếp cận nguyên lý điều khiển tải bằng relay.
 
-Mạch đóng ngắt tải MKE-M05 1-Relay Module hỗ trợ điện áp điều khiển 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
+Mạch đóng ngắt tải MKE-M05 1-Relay Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
 
 ## Thông số kỹ thuật
 - Điện áp cấp nguồn: 5VDC
@@ -103,3 +103,4 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M05 Relay](/extras/MKE-M05_2.png)
 ![MKE-M05 Relay](/extras/MKE-M05_3.png)
+
