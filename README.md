@@ -83,7 +83,7 @@ Mạch đóng ngắt tải MKE-M05 1-Relay Module hỗ trợ điện áp giao ti
 
 ### Hướng dẫn sử dụng với Arduino Uno / Vietduino Uno / ESP32
 - Trong **Tools / Library Manager**, tìm và cài đặt bộ thư viện tổng hợp **"MKE_ONE" by MakerEdu.vn**
-- Mở chương trình mẫu **"MKE_M05_Relay_Serial_XXX"** tại **File / Examples / MKE_ONE / Module / MKE_M05_Relay**
+- Mở chương trình mẫu tại **File / Examples / MKE_ONE / Module / MKE_M05_Relay**
 - Cấu hình board mạch tương ứng là **Arduino Uno / ESP32**, chọn đúng cổng **COM Port** của mạch và nhấn **Upload** để nạp chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân S (SIGNAL) của module với chân điều khiển được khai báo trong chương trình.
 - Xem kết quả mạch hoạt động theo chương trình đã nạp.
